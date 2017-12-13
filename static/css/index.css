@@ -1,0 +1,21 @@
+body {
+  padding: 20px;
+  width: 80%;
+  margin: auto;
+  background-color: green;
+  text-align: center;
+}
+
+table {
+  border-collapse: collapse;
+  margin: auto;
+  width: 100%
+}
+
+td {
+  width: 50%
+}
+
+table, tr, td {
+  border: 1px solid black;
+}
